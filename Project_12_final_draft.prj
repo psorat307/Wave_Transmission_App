@@ -1,0 +1,64 @@
+<deployment-project plugin="plugin.apptool" plugin-version="1.0">
+  <configuration build-checksum="509296512" file="C:\Users\Harsh Badwaik\Downloads\EE 305 PROJECT_GROUP 12\Project_12_final_draft.prj" location="C:\Users\Harsh Badwaik\Downloads\EE 305 PROJECT_GROUP 12" name="Project_12_final_draft" target="target.mlapps" target-name="Package App">
+    <param.appname>Project_12_final_draft</param.appname>
+    <param.authnamewatermark>Group 12</param.authnamewatermark>
+    <param.email />
+    <param.company />
+    <param.icon />
+    <param.icons />
+    <param.summary>Group Project for Subject Electromagnetic Wave (EE305)</param.summary>
+    <param.description>Assume a y-polarized uniform plane wave (Ei, Hi) is incident at an angle of incidence theta_i
+from medium 1 (er1, er1) on medium 2 (mur2, mur2) at x=0. Plot the instantaneous expressions of total
+fields E1 (=Ei + Er), H1 (= H1 + Hr), E2 (=Et), H2 (= Ht) of the wave in media 1 and 2, respectively.
+Consider both parallel and perpendicular polarizations separately. Determine the Brewster angle for
+different cases. The parameter values will be provided from user-end.</param.description>
+    <param.screenshot>C:\Users\Harsh Badwaik\AppData\Local\Temp\tpf7c3bd6f_870f_4c6f_93c7_e091ad3ce202.png</param.screenshot>
+    <param.version>1.0</param.version>
+    <param.products.name />
+    <param.products.id />
+    <param.products.version />
+    <param.platforms />
+    <param.output>C:\Users\Harsh Badwaik\Downloads</param.output>
+    <param.guid>e93ff37a-f102-4371-b659-d6875dfa5f17</param.guid>
+    <unset>
+      <param.email />
+      <param.company />
+      <param.icon />
+      <param.icons />
+      <param.version />
+      <param.products.name />
+      <param.products.id />
+      <param.products.version />
+      <param.platforms />
+    </unset>
+    <fileset.main>
+      <file>${PROJECT_ROOT}\Project_12_final_draft.mlapp</file>
+    </fileset.main>
+    <fileset.depfun />
+    <fileset.resources />
+    <fileset.package />
+    <build-deliverables>
+      <file location="C:\Users\Harsh Badwaik" name="Downloads" optional="false">C:\Users\Harsh Badwaik\Downloads</file>
+    </build-deliverables>
+    <workflow />
+    <matlab>
+      <root>E:\Matlab</root>
+      <toolboxes />
+    </matlab>
+    <platform>
+      <unix>false</unix>
+      <mac>false</mac>
+      <windows>true</windows>
+      <win2k>false</win2k>
+      <winxp>false</winxp>
+      <vista>false</vista>
+      <linux>false</linux>
+      <solaris>false</solaris>
+      <osver>10.0</osver>
+      <os32>false</os32>
+      <os64>true</os64>
+      <arch>win64</arch>
+      <matlab>true</matlab>
+    </platform>
+  </configuration>
+</deployment-project>
